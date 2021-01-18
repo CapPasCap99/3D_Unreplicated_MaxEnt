@@ -1,5 +1,6 @@
 # MaxEnt-Chromosome-Caulobacter
-Monte Carlo algorithm to derive a Maximum Entropy model of chromosome organization from Hi-C data
+Monte Carlo algorithm to derive a Maximum Entropy model of chromosome organization from Hi-C data.
+
 For more information on this procedure, see 'Learning the distribution of single-cell chromosome
 conformations in bacteria reveals emergent order across genomic scales', Messelink et al., 2021, Nature Communications.
 
